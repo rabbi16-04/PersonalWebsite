@@ -18,3 +18,66 @@
 .nav-link:hover{
     color: red;
 }
+
+.Heading{
+    font-size: 3rem;
+    font-weight: 900;
+    color: rgb(43, 43, 112);
+}
+
+.p-head{
+    font-size: 1.5rem;
+    font-weight: 500;
+    
+}
+
+.btn1{
+    height: 35px;
+    width: 15%;
+    border: none;
+    outline:none;
+    background: green;
+    color: white;
+    font-weight:bold;
+    border-radius:60px;
+    margin: auto;
+}
+
+.btn1:hover{
+    background: red;
+    transition: .5s;
+}
+
+.btn2{
+    height: 35px;
+    width: 15%;
+    border: none;
+    outline: none;
+    background: green;
+    color: white;
+    font-weight: bold;
+    border-radius: 60px;
+    margin: auto;
+}
+
+.btn2:hover{
+    background: red;
+    transition: .5s;
+}
+
+.btn3{
+    height: 35px;
+    width: 15%;
+    border: none;
+    outline: none;
+    background: green;
+    color: white;
+    font-weight: bold;
+    border-radius: 60px;
+    margin: auto;
+}
+
+.btn3:hover{
+    background: red;
+    transition: .5s;
+}
