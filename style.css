@@ -81,3 +81,17 @@
     background: red;
     transition: .5s;
 }
+
+
+.span{
+    font-size: 1.6rem;
+    font-weight: 500;
+    color: maroon;
+}
+
+.pera{
+    font-size: 2rem;
+    font-weight: 500;
+    font-display:bold;
+    color: black;
+}
