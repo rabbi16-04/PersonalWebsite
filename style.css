@@ -328,6 +328,8 @@
                 background: #37b3ed;
             }
 
+
+
 @-webkit-keyframes animate-loading {
     0% {
         transform: rotate(0deg);
@@ -348,7 +350,8 @@
     }
 }
 
-
-
+footer{
+    background: rgb(225, 240, 246);
+}
 
 
